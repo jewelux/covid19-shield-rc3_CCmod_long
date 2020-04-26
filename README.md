@@ -2,7 +2,7 @@
 
 Verlängerte Version des bewährten Gesichtsschutzes / version rallongée de la visière bien connue
 
-40mm + Verlängerung / rallonge
+          40mm + Verlängerung / rallonge
 
 Wichtige Hinweise siehe  /  Informations importantes sur: 
 paulweberCC/covid19-shield-rc3_CCmod 
