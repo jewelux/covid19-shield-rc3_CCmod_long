@@ -1,8 +1,9 @@
 # covid19-shield-rc3_CCmod_long
-Wichtige Hinweise siehe  
+Verlängerte Version des bewährten Gesichtsschutzes / version rallongée de la visière bien connue
+Wichtige Hinweise siehe  /  Informations importantes sur
 paulweberCC/covid19-shield-rc3_CCmod 
 
-Das Modell funktioniert vor allem mit folgenden Druckparameter:
+vorzugsweise folgende Druckparameter / de préférence utiliser paramètres d'impression suivants:
 
     Schichthöhe: 0,3mm 
     infill: 10-15% reicht
