@@ -1,6 +1,6 @@
 # covid19-shield-rc3_CCmod_long
 
-Verlängerte Version des bewährten Gesichtsschutzes / version rallongée de la visière bien connue
+Verlängerte Version des Gesichtsschutzes / version rallongée de la visière 
 
           40mm + Verlängerung / rallonge
 
