@@ -4,7 +4,7 @@ paulweberCC/covid19-shield-rc3_CCmod
 
 Das Modell funktioniert vor allem mit folgenden Druckparameter:
 
-    Schichthöhe: 0,3mm (Wichtig, da sonst die Verbindungen auf der falschen Schicht beginnen und damit die Sollbruchstelle nicht gewährleistet ist)
+    Schichthöhe: 0,3mm 
     infill: 10-15% reicht
 
 Darüber hinaus kann auch ich keine Gewährleistung für die Funktion geben. Das Nutzen geschieht auf eigene Gefahr und nach eigenem Ermessen.
