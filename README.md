@@ -1,5 +1,7 @@
 # covid19-shield-rc3_CCmod_long
 
+<img src="https://github.com/paulweberCC/covid19-shield-rc3_CCmod/blob/master/Abbildungen/Cutting.jpg?raw=true" width=600px>
+
 Verlängerte Version des Gesichtsschutzes / version rallongée de la visière 
 
           40mm + Verlängerung / rallonge
