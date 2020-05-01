@@ -14,12 +14,13 @@ Un kit supplémentaire (kit_a.stl, kit_b.stl et kit_c.stl) peut être imprimé e
 <img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/protojw01.jpg?raw=true" width=350px> <img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/protojw02.jpg?raw=true" width=350px> <img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/protojw03.jpg?raw=true" width=130px>
 
 
+
 La feuille transparente est identique à l'original, j'utilise le fichier "shield_final_JW_4h.ngc" sur une CNC Stepcraft D420.
 
 <img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/Brasil-V2-Shield.jpg?raw=true" width=550px>
 
 
-
+=====================================================================================================================
 Wichtige Hinweise siehe  /  Informations importantes sur: 
 paulweberCC/covid19-shield-rc3_CCmod 
 
