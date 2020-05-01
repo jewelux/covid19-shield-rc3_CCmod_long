@@ -20,7 +20,7 @@ La feuille transparente est identique à l'original, j'utilise le fichier "shiel
 <img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/Brasil-V2-Shield.jpg?raw=true" width=550px>
 
 
-=====================================================================================================================
+
 Wichtige Hinweise siehe  /  Informations importantes sur: 
 paulweberCC/covid19-shield-rc3_CCmod 
 
