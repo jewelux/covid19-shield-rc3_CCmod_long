@@ -4,12 +4,11 @@
 
 La version rallongée de la visière rc3 est destinée aux médecins-dentistes utilisant des lunettes-loupes et peut être imprimée pour dirrérentes rallonges.
 <img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/02.jpg?raw=true" width=400px> <img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/03.jpg?raw=true" width=350px>
-Ainsi, le fichier "covid19-shield_rc3_CCmod_Long_45mm.stl" possède une rallonge de 45mm par rapport au fichier original 
+Ainsi, le fichier "covid19-shield_rc3_CCmod_Long_45mm.stl" possède une rallonge de 45mm par rapport au fichier original "covid19-shield_rc3_CCmod_v4.stl"
 
 
-          40mm + rallonge
 
-Wichtige Hinweise siehe  /  Informations importantes sur: 
+## Wichtige Hinweise siehe  /  Informations importantes sur: 
 paulweberCC/covid19-shield-rc3_CCmod 
 
 vorzugsweise folgende Druckparameter / de préférence utiliser paramètres d'impression suivants:
