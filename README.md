@@ -10,13 +10,13 @@ Ainsi, le fichier "covid19-shield_rc3_CCmod_Long_45mm.stl" possède une rallonge
 
 
 
-## Wichtige Hinweise siehe  /  Informations importantes sur: 
+Wichtige Hinweise siehe  /  Informations importantes sur: 
 paulweberCC/covid19-shield-rc3_CCmod 
 
-vorzugsweise folgende Druckparameter / de préférence utiliser paramètres d'impression suivants:
+Vorzugsweise folgende Druckparameter einstellen / de préférence utiliser les paramètres d'impression suivants:
 
-    Schichthöhe: 0,3mm 
-    infill: 10-15% reicht
+    layer height: 0,3mm 
+    infill: 10-15% minimum
 
 Darüber hinaus kann auch ich keine Gewährleistung für die Funktion geben. Das Nutzen geschieht auf eigene Gefahr und nach eigenem Ermessen. / L'utilisation des fichiers se fait sous la seule responsabilité de celui qui va les utiliser, je ne peux donner aucune garantie sur le bon fonctionnement de l'article produit.
 
@@ -24,6 +24,6 @@ Das 3D-Modell kann nach Belieben verändern und genutzt werden. / Le modèle 3d 
 
 Der Entwurf steht unter Lizenz: / Le design est mis à disposition sous license:
 
-## Creative Commons (4.0 International License) 
+                     Creative Commons (4.0 International License) 
 
 Die Original-Datei Prusa RC3 stammt von PrusaResearch. / Le fichier original RC3 vient de PrusaResearch.
