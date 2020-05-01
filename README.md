@@ -8,7 +8,7 @@ La version rallongée de la visière rc3 est destinée aux médecins-dentistes u
 
 Ainsi, le fichier "covid19-shield_rc3_CCmod_Long_45mm.stl" possède une rallonge de 45mm par rapport au fichier original "covid19-shield_rc3_CCmod_v4.stl"
 
-Un kit supplémentaire "kit.stl" peut être imprimé et utilisé pour évaluer rallonge et éventuellement élévation nécessaires de la visière définitive.
+Un kit supplémentaire (kit_a.stl, kit_b.stl et kit_c.stl) peut être imprimé et utilisé pour évaluer rallonge, éventuellement élévation et éventuellement inclinaison (1-3°) nécessaires de la visière définitive.
 
 
 
