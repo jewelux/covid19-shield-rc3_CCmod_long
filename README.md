@@ -10,7 +10,7 @@ Ainsi, le fichier "covid19-shield_rc3_CCmod_Long_45mm.stl" possède une rallonge
 
 Un kit supplémentaire (kit_a.stl, kit_b.stl et kit_c.stl) peut être imprimé et utilisé pour évaluer rallonge, éventuellement élévation et éventuellement inclinaison (1-3°) nécessaires de la visière définitive.
 
-
+<img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/02.jpg?raw=true" width=400px>
 
 Wichtige Hinweise siehe  /  Informations importantes sur: 
 paulweberCC/covid19-shield-rc3_CCmod 
