@@ -2,9 +2,11 @@
 
 <img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/proto01_02.jpg?raw=true" width=400px> <img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/LoupeGr%C3%A9gory04.jpeg?raw=true" width=350px>
 
-Verlängerte Version des Gesichtsschutzes / version rallongée de la visière 
+La version rallongée de la visière rc3 est destinée aux médecins-dentistes utilisant des lunettes-loupes
+<img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/02.jpg?raw=true" width=400px> <img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/03.jpg?raw=true" width=350px>
 
-          40mm + Verlängerung / rallonge
+
+          40mm + rallonge
 
 Wichtige Hinweise siehe  /  Informations importantes sur: 
 paulweberCC/covid19-shield-rc3_CCmod 
