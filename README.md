@@ -1,4 +1,5 @@
 # Version rallongée de la visière covid19-shield-rc3_CC
+# Verlängerte Version des FaceShiedls covid19-shield-rc3_CC
 
 <img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/proto01_02.jpg?raw=true" width=400px> <img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/LoupeGr%C3%A9gory04.jpeg?raw=true" width=350px>
 
