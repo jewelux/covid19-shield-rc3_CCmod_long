@@ -36,7 +36,7 @@ La visière du fichier "covid19-shield_rc3_CCmod_large_2x29mm.stl" est 2 x 29 mm
 
 Die Datei "covid19-shield_rc3_CCmod_large_2x29mm.stl" hat eine 2 x 29mm breitere Folie als das Original "covid19-shield_rc3_CCmod_v4.stl". Die Breite der Folie, immer noch Prusa-kompatibel, beträgt nun 298mm (shield_final_JW_4h_large2x29mm.ngc). Alle Parameter lassen sich im Übrigen nach Belieben anpassen.
 
-<img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/02largeweb.jpg?raw=true" width=350px> <img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/01largeweb.jpg?raw=true" width=350px>
+<img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/02largeweb.jpg?raw=true" height=640px> <img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/01largeweb.jpg?raw=true" height=640px>
 
 Wichtige Hinweise siehe  /  Informations importantes sur: 
 paulweberCC/covid19-shield-rc3_CCmod 
