@@ -32,9 +32,9 @@ Die Folie entspricht dem Original, ich schneide/fräse sie auf einer CNC Stepcra
 # Version large de la visière covid19-shield-rc3_CC
 # Breite Version des FaceShields covid19-shield-rc3_CC
 
-La visière du fichier "covid19-shield_rc3_CCmod_large_2x29mm.stl" est 2 x 29 mm plus large que l'original du fichier "covid19-shield_rc3_CCmod_v4.stl"
+La visière du fichier "covid19-shield_rc3_CCmod_large_2x29mm.stl" est 2 x 29 mm plus large que l'original du fichier "covid19-shield_rc3_CCmod_v4.stl". Tous les paramètres peuvent être adaptés au besoin.
 
-Die Datei "covid19-shield_rc3_CCmod_large_2x29mm.stl" hat eine 2 x 29mm breitere Folie als das Original "covid19-shield_rc3_CCmod_v4.stl"
+Die Datei "covid19-shield_rc3_CCmod_large_2x29mm.stl" hat eine 2 x 29mm breitere Folie als das Original "covid19-shield_rc3_CCmod_v4.stl". Alle Parameter lassen sich im Übrigen nach Belieben anpassen.
 
 <img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/02largeweb.jpg?raw=true" width=350px> <img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/01largeweb.jpg?raw=true" width=350px>
 
