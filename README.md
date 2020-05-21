@@ -41,12 +41,13 @@ Die Datei "covid19-shield_rc3_CCmod_large_2x29mm.stl" hat eine 2 x 29mm breitere
 # Version extra-large en kit de la visière covid19-shield-rc3_CC, modèle Chantal
 # Extra-breite Version als Bausatz des FaceShields covid19-shield-rc3_CC, Modell Chantal
 
-La visière du fichier "faceshield_Proto_Chantal 54mm v7.stl" et la feuille transparente (shield_jw_9holes_2x90mm_Chantal.ngc) sont toujours compatibles Prusa, avec renforcement fermé en bas. Les bords de la feuille transparente peuvent être coupées aux ciseaux pour adapter à la tête de celui qui va porter la visière.
+La visière du fichier "faceshield_Proto_Chantal 54mm v7.stl" et la feuille transparente (shield_jw_9holes_2x90mm_Chantal.ngc) sont toujours compatibles Prusa, avec renforcement fermé en bas (bottom-MW1mm.stl). Les bords de la feuille transparente peuvent être coupées aux ciseaux pour adapter à la tête de celui qui va porter la visière.
 
-Das Faceshield der Datei "faceshield_Proto_Chantal 54mm v7.stl" sowie die transparente Folie (shield_jw_9holes_2x90mm_Chantal.ngc) sind immer noch Prusa kompatibel, unten mit geschlossener Verstärkung. Die Breite der Folie kann mit der Schere bearbeitet werden um sie an die Kopfform des Trägers anzupassen.
+Das Faceshield der Datei "faceshield_Proto_Chantal 54mm v7.stl" sowie die transparente Folie (shield_jw_9holes_2x90mm_Chantal.ngc) sind immer noch Prusa kompatibel, unten mit geschlossener Verstärkung (bottom-MW1mm.stl). Die Breite der Folie kann mit der Schere bearbeitet werden um sie an die Kopfform des Trägers anzupassen.
 
 <img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/ProtoChantal11web.jpg?raw=true" height=640px> 
 
+---------------------------------------------------------------
 Wichtige Hinweise siehe  /  Informations importantes sur: 
 paulweberCC/covid19-shield-rc3_CCmod 
 
