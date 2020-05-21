@@ -45,7 +45,8 @@ La visière du fichier "faceshield_Proto_Chantal 54mm v7.stl" et la feuille tran
 
 Das Faceshield der Datei "faceshield_Proto_Chantal 54mm v7.stl" sowie die transparente Folie (shield_jw_9holes_2x90mm_Chantal.ngc) sind immer noch Prusa kompatibel, unten mit geschlossener Verstärkung (bottom-MW1mm.stl). Die Breite der Folie kann mit der Schere bearbeitet werden um sie an die Kopfform des Trägers anzupassen.
 
-<img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/ProtoChantal11web.jpg?raw=true" height=640px> 
+<img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/ProtoChantal11web.jpg?raw=true" height=640px>
+<img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/ProtoChantal11web.jpg?raw=true" height=640px>
 
 ---------------------------------------------------------------
 Wichtige Hinweise siehe  /  Informations importantes sur: 
