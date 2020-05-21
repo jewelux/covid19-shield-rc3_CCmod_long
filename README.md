@@ -38,6 +38,15 @@ Die Datei "covid19-shield_rc3_CCmod_large_2x29mm.stl" hat eine 2 x 29mm breitere
 
 <img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/02largeweb.jpg?raw=true" height=640px> <img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/01largeweb.jpg?raw=true" height=640px>
 
+# Version extra-large en kit de la visière covid19-shield-rc3_CC
+# Extra-breite Version als Bausatz des FaceShields covid19-shield-rc3_CC
+
+La visière du fichier "covid19-shield_rc3_CCmod_large_2x29mm.stl" et la feuille transparente sont toujours compatibles Prusa, avec renforcement fermé en bas. Les bords de la feuille transparente peuvent être coupées aux ciseaux pour adapter à la tête de celui qui va porter la visière.
+
+Das Faceshield der Datei "covid19-shield_rc3_CCmod_large_2x29mm.stl" sowie die transparente Folie sind immer noch Prusa kompatibel, unten mit geschlossener Verstärkung. Die Breite der Folie kann mit der Schere bearbeitet werden um sie an die Kopfform des Trägers anzupassen.
+
+<img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/02largeweb.jpg?raw=true" height=640px> <img src="https://github.com/jewelux/covid19-shield-rc3_CCmod_long/blob/pictures/01largeweb.jpg?raw=true" height=640px>
+
 Wichtige Hinweise siehe  /  Informations importantes sur: 
 paulweberCC/covid19-shield-rc3_CCmod 
 
